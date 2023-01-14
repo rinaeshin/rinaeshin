@@ -1,5 +1,5 @@
 ### Hi there 👋
-Rinae : 개발이 취미였던 날들을 회상하는 대학생.
+Rinae : 개발이 취미였던 날들을 회상하는 대학생.</
 通りすがりのプログラマー プログラマです。(希)
 wanna be back-end developer
 
