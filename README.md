@@ -10,7 +10,7 @@ Rinae : 개발을 취미로 하고 싶은 대학생.
 ⚡Tools⚡</br>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-                                                                                                                🎶 Interested in 🎶 </br>
+</br>                                                                                                            🎶 Interested in 🎶 </br>
                                                                                                                <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>             <img src="https://img.shields.io/badge/Gradle-F05032?style=flat-square&logo=Gradle&logoColor=white"/>     
 <img src="https://img.shields.io/badge/IntelliJ IDEA-F05032?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fila-03234C?style=flat-square&logo=Fila&logoColor=white"/>
