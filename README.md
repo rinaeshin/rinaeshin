@@ -3,8 +3,8 @@ Rinae : 개발이 취미였던 날들을 회상하는 대학생.</br>
 通りすがりのプログラマー プログラマになりたい。(希)</br>
 wanna be backend developer
 
-https://roadmap.sh/backend/ </br>
-https://roadmap.sh/java/
+</br>
+
 
 🌱 Tech Stack 🌱</br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -17,11 +17,17 @@ https://roadmap.sh/java/
 </br>
 
 🎶 Interested in 🎶 </br>
-                                                                                                               <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>             <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>     
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>             
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+                                                                                                               
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fila-03234C?style=flat-square&logo=Fila&logoColor=white"/>
+</br>
 
-
+</br>
+And...
+</br>
+緑黄色社会-ミチヲユケ <- 😄
 <!--
 **rinaeshin/rinaeshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
