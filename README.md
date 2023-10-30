@@ -25,7 +25,6 @@ wanna be backend developer
 </br>
 And...
 </br>
-緑黄色社会-ミチヲユケ <- 😄
 <!--
 **rinaeshin/rinaeshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
