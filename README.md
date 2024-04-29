@@ -1,7 +1,8 @@
 ### Hi there 👋
 Rinae : 개발이 취미였던 날들을 회상하는 대학생.</br>
 通りすがりのプログラマー プログラマになりたい。(希)</br>
-wanna be backend developer
+
+korean >>>>>> japanese >>> english > else (translate anything from computer.)
 
 </br>
 
