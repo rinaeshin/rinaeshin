@@ -13,7 +13,8 @@ korean >>>>>> japanese >>> english > else (translate anything from computer.)
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ⚡Tools⚡</br>
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellj&logoColor=white"/>
+<img src="https://img.shields.io/badge/#527FFF-amazonRDS?style=flat-square&logo=amazonrds&logoColor=white"/>
 </br>
 
 🎶 Interested in 🎶 </br>
