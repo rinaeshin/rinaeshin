@@ -14,7 +14,7 @@ korean >>>>>> japanese >>> english > else (translate anything from computer.)
 
 ⚡Tools⚡</br>
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellj&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 
 </br>
 
