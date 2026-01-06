@@ -49,6 +49,8 @@ korean >>>>>> japanese >>> english > else (translate anything from computer.)
 </br>
 And...
 </br>
+<img src="https://img.shields.io/badge/libreofficewriter-083FA6?style=flat-square&logo=libreofficewriter&logoColor=white"/>
+</br>
 <!--
 **rinaeshin/rinaeshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
