@@ -30,21 +30,22 @@ korean >>>>>> japanese >>> english > else (translate anything from computer.)
 
 🌱 Tech Stack 🌱</br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 ⚡Tools⚡</br>
-<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/modelcontextprotocol-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/modelcontextprotocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
 
 </br>
 
 🎶 Interested in 🎶 </br>
 
-<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=Fila&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Fila&logoColor=white"/>
-<img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Fila&logoColor=white"/>
+<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>
 
 </br>
 And...
