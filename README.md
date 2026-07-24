@@ -14,9 +14,12 @@
 ## Projects
 ### Senior Club Platform
 노인 일자리 기관의 업무 흐름을 바탕으로 출석, 번호표, 상담 흐름을 서비스화한 프로젝트입니다.
+https://github.com/TetraLabYonam/senior_helper
+https://github.com/TetraLabYonam/senior_attend
 
 ### RAG-based QA/TDD Assistant
 LLM과 RAG를 활용하여 요구사항 기반 테스트 관점과 검증 흐름을 보조하는 프로젝트입니다.
+https://github.com/yonam-tester/RAG-Combination
 
 ## Tech Stack
 Spring Boot / Java / React / AWS / Docker / GitHub Actions / Grafana
